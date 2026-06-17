@@ -50,15 +50,12 @@ function App() {
 
         <article className="message-box">
           <p className="small-title">From my heart</p>
-          <h1>Sorry da...</h1>
+          <h1></h1>
           <p>
-            Ipo oru three days ah sanda than sanda arugurement than ...Namma rendu perukum sanda varalam 😞Aana Nee enakku romba mukkiyam🫶
-            Sometimes naan wrong ah pesiruppen. Unna hurt pannirundha sorry.I'm really sorry for everything 🥹
+            I am a girl working towards my dream of building a successful career in the IT industry. Every day, I learn new technologies, improve my skills, and move one step closer to my goals. My IT journey is not just about coding and projects; it is about passion, determination, and believing in myself. There are challenges, but they make me stronger. I love the process of learning, growing, and creating something meaningful through technology. ❤️✨
+
           </p>
           <p>
-            Argument vida, nee venum namma bond venum 😫namma bond strong ah irukkanum. Please smile pannidu.
-            without you I'm nothing 🥺ipolam ennlah frist iruthah matri hope ah strong ah irukah mudiyala athan naa etho matri behaviour pandren I'm really sry sry by abitha 🥲
-            Na evlo kullah irukan nah reason nee ...sometimes neethan hurt pannuvah...sometimes meethan healum pannuvah... WHATVEVER WE CAN FACE ANYTHING TOGETHER ...GROW AND LIVE TOGETGER...🥹🎀💙
           </p>
           {/* <button className="reset-btn" onClick={resetHeart}>
             <RotateCcw size={17} /> Try again
